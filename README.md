@@ -19,6 +19,7 @@ Write a good README. When you write a detailed Readme helps when making a presen
 Outline what you want to talk about in your presentation. Things to keep in mind when writing a readme
 
 - What is your project
+- How do you install your project?
 - How does it work?
 - What is something unique about it?
 - What were your challenges?
