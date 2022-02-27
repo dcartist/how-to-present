@@ -36,6 +36,7 @@ Outline what you want to talk about in your presentation. Things to keep in mind
 - Practice your presentation with other people and get their feedback
 - Record yourself doing your presentation to get an understanding of how others will see you
 - Take pauses, and don't rush through everything.
+- Having screen shots of certain code is a good thing.
 - Have your project running and your code up to be able to view
 - Make sure to drink water before a presentation. Hydration is key! 
 - Be clear and concise. 
