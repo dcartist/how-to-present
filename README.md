@@ -71,7 +71,7 @@ Outline what you want to talk about in your presentation. Things to keep in mind
 
 If your project has bugs, there are different ways to handle them.
 
-- - Bug vs. Feature - Somethings that you would think of as a bug could be considered a feature. (https://levelup.gitconnected.com/7-bugs-that-turned-into-useful-features-later-d7bbb8351f3c)
+- Bug vs. Feature - Somethings that you would think of as a bug could be considered a feature. (https://levelup.gitconnected.com/7-bugs-that-turned-into-useful-features-later-d7bbb8351f3c)
   - If it crashes out complete, then don't trigger it. Emphasize things/sections of code that do work. For the areas that don't work, talk about upcoming features you are working on.
 
 ​	For the epic, everything is a dumpster fire; nothing works; make sure to breathe. We all had epic moments; even Steve Jobs had a few of those. You are human! You can focus more on showing your idea/concepts and planning. 
