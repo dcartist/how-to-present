@@ -1,10 +1,12 @@
 # Presentation tips
 
-There are different avenues when it comes to making presentations. You can use items like PowerPoint, Google Slides, reveal.js (https://revealjs.com/installation/), but one of the best ways is using your project's README.
+There are different avenues when it comes to making presentations. You can use items like PowerPoint, Google Slides, reveal.js (https://revealjs.com/installation/).
 
 
 
 # how-to-present
+
+![presentation](Women Power - Business.png)
 
 
 
@@ -34,16 +36,35 @@ Outline what you want to talk about in your presentation. Things to keep in mind
 ### When it comes to presentation, here are some tips:
 
 - Practice your presentation with other people and get their feedback
+
 - Record yourself doing your presentation to get an understanding of how others will see you
+
 - Take pauses, and don't rush through everything.
+
+- Clean your code and and leave comments
 - Having screen shots of certain code is a good thing.
-- Have your project running and your code up to be able to view
-- Make sure to drink water before a presentation. Hydration is key! 
-- Be clear and concise. 
-- Listen to music beforehand that makes you feel happy and want to sing; people can feel that happiness.
-- It's okay to be nervous, and sometimes saying, "Give me a moment I am a bit nervous," helps get over the initial fear.
+
 - Clean your Desktop and turn off your notifications when screen sharing; also, go for "non-offensive" backgrounds. The fewer distractions, the better.
+
+![presentation](screen.png)
+
+
+
+
+- Have your project running and your code up to be able to view
+
+- Make sure to drink water before a presentation. Hydration is key! 
+
+- Be clear and concise. 
+
+- Listen to music beforehand that makes you feel happy and want to sing; people can feel that happiness.
+
+- It's okay to be nervous, and sometimes saying, "Give me a moment I am a bit nervous," helps get over the initial fear.
+
+
 - Leave some time for questions and be ready to talk about your project in detail.
+
+  
 
 ### Handling bugs
 
