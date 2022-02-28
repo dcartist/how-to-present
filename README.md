@@ -44,7 +44,6 @@ Outline what you want to talk about in your presentation. Things to keep in mind
   - Carbon -  https://carbon.now.sh
   - Polacode - https://marketplace.visualstudio.com/items?itemName=pnp.polacode
   - Codeimg - https://codeimg.io
-  - 
 
 - Clean your Desktop and turn off your notifications when screen sharing; also, go for "non-offensive" backgrounds. The fewer distractions, the better.
 
