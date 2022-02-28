@@ -36,13 +36,12 @@ Outline what you want to talk about in your presentation. Things to keep in mind
 ### When it comes to presentation, here are some tips:
 
 - Practice your presentation with other people and get their feedback
-
 - Record yourself doing your presentation to get an understanding of how others will see you
-
 - Take pauses, and don't rush through everything.
-
 - Clean your code and and leave comments
-- Having screen shots of certain code is a good thing.
+- Having screen shots or code snippets of certain code is a good thing. Using things like:
+  - Carbon -  https://carbon.now.sh
+  - Polacode - https://marketplace.visualstudio.com/items?itemName=pnp.polacode
 
 - Clean your Desktop and turn off your notifications when screen sharing; also, go for "non-offensive" backgrounds. The fewer distractions, the better.
 
