@@ -6,7 +6,7 @@ There are different avenues when it comes to making presentations. You can use i
 
 # how-to-present
 
-![presentation](Women Power - Business.png)
+![presentation](Business.png)
 
 
 
