@@ -86,14 +86,14 @@ Even the most successful, brilliant developers/engineers mess up on their projec
 
 ![musk](tesla-truck.gif)
 
-[Elon Musk with Cybertruck failed glass strength]( https://electrek.co/2020/04/26/tesla-cybertruck-glass-demo-fail-elon-musk-electric-truck-attention/)
+[Elon Musk with Cybertruck's failed glass strength demo]( https://electrek.co/2020/04/26/tesla-cybertruck-glass-demo-fail-elon-musk-electric-truck-attention/)
 
 
 
 Here are a few clips of demo presentation fails:
 
  - 5 biggest fails of Microsoft and Apple -  https://www.youtube.com/watch?v=RCgz38hGGBE
- - Apple https://www.youtube.com/watch?v=vzDDO3Xb_QU
+ - Apple -  https://www.youtube.com/watch?v=vzDDO3Xb_QU
 
 ## Handling bugs
 
