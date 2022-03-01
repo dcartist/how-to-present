@@ -14,11 +14,17 @@ There are different avenues when it comes to making presentations. You can use i
 
 
 
-Write a good README. When you write a detailed Readme helps when making a presentation. You will not have to remember as much because it is already written in your README. Your README is your guide to your presentation.
 
+### Your presentation is about getting your story across.
+It doesn't have to be grandiose or elaborate, but it has to be your story. 
 
+### Don't just read off your README/Slides. 
+They are just a guide to help with the story that you are telling.
 
-Outline what you want to talk about in your presentation. Things to keep in mind when writing a readme
+When using READMEs for your presentation, make sure it is well written. 
+Outline what you want to talk about in your presentation. You will not have to remember as much because it is already written down. 
+
+Here are some things to consider in your outline/presentation:
 
 - What is your project
 - How do you install your project?
@@ -37,7 +43,6 @@ Outline what you want to talk about in your presentation. Things to keep in mind
 
 - Practice your presentation with other people and get their feedback
 - Record yourself doing your presentation to get an understanding of how others will see you
-- Don't just read off your README/Slides they are just a guide to help with the story that you are telling.
 - Take pauses, and don't rush through everything.
 - Clean your code and and leave comments
 - Having screen shots or code snippets of certain code is a good thing. Using things like:
