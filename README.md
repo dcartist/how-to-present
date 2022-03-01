@@ -10,19 +10,23 @@ There are different avenues when it comes to making presentations. You can use i
 
 
 
-## Presentation tips
+# Presentation tips:
 
 
 
 
-### Your presentation is about getting your story across.
+## Your presentation is about getting your story across.
 It doesn't have to be grandiose or elaborate, but it has to be your story. 
 
-### Don't just read off your README/Slides. 
+
+
+## Don't just read off your README/Slides. 
 They are just a guide to help with the story that you are telling.
 
 When using READMEs for your presentation, make sure it is well written. 
 Outline what you want to talk about in your presentation. You will not have to remember as much because it is already written down. 
+
+
 
 Here are some things to consider in your outline/presentation:
 
@@ -39,7 +43,7 @@ Here are some things to consider in your outline/presentation:
 
 
 
-### When it comes to presentation, here are some tips:
+## When it comes to presentation:
 
 - Practice your presentation with other people and get their feedback
 - Record yourself doing your presentation to get an understanding of how others will see you
@@ -70,9 +74,28 @@ Here are some things to consider in your outline/presentation:
 
 - Leave some time for questions and be ready to talk about your project in detail.
 
-  
 
-### Handling bugs
+
+# Dumpster Fires
+
+
+
+Even the most successful, brilliant developers/engineers mess up on their projects and presentations. It's a part of being human. Don't beat yourself up over it. Take of those moments as room for improvement. Breathe, do the best you can, and remember no one is perfect.
+
+
+
+![musk](tesla-truck.gif)
+
+[Elon Musk with Cybertruck failed glass strength]( https://electrek.co/2020/04/26/tesla-cybertruck-glass-demo-fail-elon-musk-electric-truck-attention/)
+
+
+
+Here are a few clips of demo presentation fails:
+
+ - 5 biggest fails of Microsoft and Apple -  https://www.youtube.com/watch?v=RCgz38hGGBE
+ - Apple https://www.youtube.com/watch?v=vzDDO3Xb_QU
+
+## Handling bugs
 
 If your project has bugs, there are different ways to handle them.
 
@@ -80,4 +103,12 @@ If your project has bugs, there are different ways to handle them.
 
 - If it crashes out complete, then don't trigger it. Emphasize things/sections of code that do work. For the areas that don't work, talk about upcoming features you are working on.
 
-​	For the epic, everything is a dumpster fire; nothing works; make sure to breathe. We all had epic moments; even Steve Jobs had a few of those. You are human! You can focus more on showing your idea/concepts and planning. 
+
+
+For the epic, everything is a dumpster fire; nothing works; make sure to breathe. We all had epic moments; even Steve Jobs had a few of those. You are human! You can focus more on showing your idea/concepts and planning. 
+
+
+### At the end of the day, remember you got this!
+
+
+![you got this](you-got-this.gif)
